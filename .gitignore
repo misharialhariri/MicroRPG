@@ -40,3 +40,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Separate repository — GA4 analytics dashboard
+/dashboard
